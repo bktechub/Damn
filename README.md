@@ -41,9 +41,9 @@ A full-stack web application for managing employees, departments, and salaries, 
 
 ## Badges
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/bktechub/test)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/bktechub/Damn)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Tech Stack](https://img.shields.io/badge/tech%20stack-React%20%7C%20Express%20%7C%20MySQL-lightgrey.svg)](https://github.com/bktechub/test)
+[![Tech Stack](https://img.shields.io/badge/tech%20stack-React%20%7C%20Express%20%7C%20MySQL-lightgrey.svg)](https://github.com/bktechub/Damn)
 
 ---
 
@@ -66,8 +66,8 @@ A full-stack web application for managing employees, departments, and salaries, 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/bktechub/test.git
-cd test
+git clone https://github.com/bktechub/Damn.git
+cd Damn
 ```
 
 ### 2. Setup the Database
